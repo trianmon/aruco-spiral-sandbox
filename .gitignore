@@ -2,7 +2,6 @@ build/
 install/
 log/
 
-# PX4 dependencies (should be git submodules)
 src/px4-ros2-interface-lib/
 src/px4_msgs/
 src/px4_ros_com/
